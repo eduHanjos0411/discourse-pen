@@ -6,12 +6,12 @@
         "asset-variable": "assets/background.svg"
    },
    "color_schemes": {
-       "color scheme name": {
-          "primary": "000000",
-          "secondary": "000000",
-          "tertiary": "000000",
-          "quaternary": "000000",
-          "header_background": "000000",
+       "Default": {
+          "primary": "#222222",
+          "secondary": "#b3b3b3",
+          "tertiary": "#0c5eb6",
+          "quaternary": "#e45735",
+          "header_background": "D9D9D9",
           "header_primary": "000000",
           "highlight": "000000",
           "danger": "000000",
